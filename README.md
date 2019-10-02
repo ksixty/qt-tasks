@@ -1,7 +1,7 @@
 # Tasks
 
-A simple Qt application for viewing and managing tasks stored in plain text format. Check out the included `example.txt` file to try it out.
-![tasks screenshot](https://k60.in/tasks.png)
+A simple Qt application for viewing and managing tasks stored in plain text format. Check out the included `example.txt` file to try it out.  
+<img src="https://k60.in/tasks.png" width="469px" height="471px">
 
 ## Design
 Core logic is described within the `Task` class through mostly private methods.
@@ -14,6 +14,6 @@ This is an exmaple task title    1570037199    DONE
 
 ## Interface
 Most of the applications' functions reside in its menus:  
-![tasks menus](https://k60.in/tasks-menus.png)
+<img src="https://k60.in/tasks-menu.png" witdh="390" height="129">
 
 The application supports some well-known keyboard shortcuts and conventions.
