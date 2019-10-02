@@ -1,6 +1,6 @@
 # Tasks
 
-A simple Qt application for viewing and managing tasks stored in plain text format.  
+A simple Qt application for viewing and managing tasks stored in plain text format. Check out the included `example.txt` file to try it out.
 ![tasks screenshot](https://k60.in/tasks.png)
 
 ## Design
